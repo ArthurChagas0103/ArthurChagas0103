@@ -45,8 +45,8 @@
 
 <h3 align="left">📲 Connect with me:</h3>
 <p align="left">
-<code><a href="https://www.linkedin.com/in/arthur-chagas-ti/" target="_self"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" alt="" height="40" width="40" /></a></code>
-<code><a href="https://www.instagram.com/arthur_gomes_chagas/" target="_self"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png" alt="" height="40" width="40"/></a></code>
+<code><a href="https://www.linkedin.com/in/arthur-chagas-ti/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" alt="" height="40" width="40" /></a></code>
+<code><a href="https://www.instagram.com/arthur_gomes_chagas/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png" alt="" height="40" width="40"/></a></code>
 </p>
 
 <hr/>
