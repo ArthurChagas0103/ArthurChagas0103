@@ -52,6 +52,13 @@
 <hr/>
 
 <div align="center">
-<h1 style="font-family: 'Silkscreen', sans-serif;">"Não é a linguagem de programação que define o programador, mas sim sua lógica"</h1>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Silkscreen&display=swap" rel="stylesheet">
+
+<span style="font-family: 'Silkscreen', sans-serif; font-size: 16px;">
+    **Não é a linguagem de programação que define o programador, mas sim sua lógica**
+</span>
+
 <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="50%" />
 </div>
