@@ -5,7 +5,6 @@
 - 👨🏻‍🎓 Graduated in IT Technician
 
 <h3 align="left">📈 My stats:</h3>
-
 <div align="center">
   <a href="https://github.com/ArthurChagas0103">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurChagas0103&show_icons=true&count_private=true&theme=prussian&hide_border=true"/>
@@ -13,8 +12,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ArthurChagas0103&theme=prussian&hide_border=true&border_radius=10&locale=pt_BR&mode=weekly&exclude_days=Mon" alt="GitHub Streak" /></a>
 </div>
 
-<h3 align="left">💻 Some programming languages:</h3>
+<br/>
 
+<h3 align="left">💻 Some programming languages:</h3>
 <div style="display: inline_block"><br>
   <code><img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
   <code><img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"></code>
@@ -30,6 +30,8 @@
   <code><img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"></code>
   <code><img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
 </div>
+
+<br/>
 
 <h3 align="left">📲 Connect with me:</h3>
 <p align="left">
