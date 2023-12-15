@@ -6,8 +6,9 @@
 
 <div align="center">
   <a href="https://github.com/ArthurChagas0103">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurChagas0103&show_icons=true&count_private=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurChagas0103&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurChagas0103&show_icons=true&count_private=true&theme=prussian"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurChagas0103&layout=compact&theme=prussian"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ArthurChagas0103&theme=prussian&hide_border=true&border_radius=10&locale=pt_BR&mode=weekly&exclude_days=Mon" alt="GitHub Streak" /></a>
 </div>
 
 <h3 align="left">Some programming languages:</h3>
@@ -27,8 +28,6 @@
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"> 
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArthurChagas0103&theme=prussian&hide_border=true&border_radius=10&locale=pt_BR&mode=weekly&exclude_days=Mon)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
