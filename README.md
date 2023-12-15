@@ -51,11 +51,11 @@
 
 <hr/>
 
-<div align="center">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Silkscreen&display=swap" rel="stylesheet">
 
+<div align="center">
 <span style="font-family: 'Silkscreen', sans-serif; font-size: 16px;">
     **Não é a linguagem de programação que define o programador, mas sim sua lógica**
 </span>
