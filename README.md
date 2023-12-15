@@ -3,6 +3,8 @@
 - 👨🏻‍💻 Today I work with Full Stack Web Development
 - 👨🏻‍💼 I'm CTO of a startup called QuickFood Technologies
 - 👨🏻‍🎓 Graduated from the IT technical course
+- 🎂 I'm 18 years old
+- 🧒🏻 Programmer since age 12
 
 <hr/>
 
