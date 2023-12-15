@@ -52,8 +52,7 @@
 <hr/>
 
 <div align="center">
-  
-*"Não é a linguagem de programação que define o programador, mas sim sua lógica."*
-
 <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="50%" />
+
+*"Não é a linguagem de programação que define o programador, mas sim sua lógica."*
 </div>
