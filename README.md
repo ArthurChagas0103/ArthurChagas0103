@@ -1,4 +1,4 @@
-## Hello everyone! I'm Arthur Chagas 😉
+## Hello everyone! I'm Arthur Chagas 😎
 
 - 👨🏻‍💻 Today I work with Full Stack Web Development
 - 👨🏻‍💼 I'm CTO of a startup called QuickFood Technologies
