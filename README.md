@@ -4,7 +4,7 @@
 - 👨🏻‍💼 I'm CTO of a startup called QuickFood Technologies
 - 👨🏻‍🎓 Graduated in IT Technician
 
-<h3 align="left">My stats:</h3>
+<h3 align="left">📈 My stats:</h3>
 
 <div align="center">
   <a href="https://github.com/ArthurChagas0103">
@@ -13,7 +13,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ArthurChagas0103&theme=prussian&hide_border=true&border_radius=10&locale=pt_BR&mode=weekly&exclude_days=Mon" alt="GitHub Streak" /></a>
 </div>
 
-<h3 align="left">Some programming languages:</h3>
+<h3 align="left">💻 Some programming languages:</h3>
 
 <div style="display: inline_block"><br>
   <code><img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
@@ -31,7 +31,7 @@
   <code><img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
 </div>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📲 Connect with me:</h3>
 <p align="left">
 <code><a href="https://www.linkedin.com/in/arthur-chagas-ti/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" alt="" height="40" width="40" /></a></code>
 <code><a href="https://www.instagram.com/arthur_gomes_chagas/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png" alt="" height="40" width="40"/></a></code>
