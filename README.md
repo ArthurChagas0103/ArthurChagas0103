@@ -4,6 +4,8 @@
 - 👨🏻‍💼 I'm CTO of a startup called QuickFood Technologies
 - 👨🏻‍🎓 Graduated from the IT technical course
 
+<hr/>
+
 <h3 align="left">📈 My stats:</h3>
 <div align="center">
   <a href="https://github.com/ArthurChagas0103">
