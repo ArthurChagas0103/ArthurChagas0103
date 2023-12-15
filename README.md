@@ -1,9 +1,5 @@
 ## Hello everyone! I'm Arthur Chagas 😎
 
-<div style="display: flex; justify-content: center; width: 100%">
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="50%" />
-</div>
-
 - 👨🏻‍💻 Today I work with Full Stack Web Development
 - 👨🏻‍💼 I'm CTO of a startup called QuickFood Technologies
 - 👨🏻‍🎓 Graduated from the IT technical course
@@ -46,3 +42,7 @@
 <code><a href="https://www.linkedin.com/in/arthur-chagas-ti/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" alt="" height="40" width="40" /></a></code>
 <code><a href="https://www.instagram.com/arthur_gomes_chagas/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png" alt="" height="40" width="40"/></a></code>
 </p>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="50%" />
+</div>
