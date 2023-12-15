@@ -42,5 +42,3 @@
 <code><a href="https://www.linkedin.com/in/arthur-chagas-ti/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" alt="" height="40" width="40" /></a></code>
 <code><a href="https://www.instagram.com/arthur_gomes_chagas/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png" alt="" height="40" width="40"/></a></code>
 </p>
-
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
