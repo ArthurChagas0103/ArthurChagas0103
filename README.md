@@ -4,6 +4,8 @@
 - 👨🏻‍💼 I'm CTO of a startup called QuickFood Technologies
 - 👨🏻‍🎓 Graduated in IT Technician
 
+<h3 align="left">My stats:</h3>
+
 <div align="center">
   <a href="https://github.com/ArthurChagas0103">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurChagas0103&show_icons=true&count_private=true&theme=prussian&hide_border=true"/>
