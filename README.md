@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 Today I work with Full Stack Web Development
 - 👨🏻‍💼 I'm CTO of a startup called QuickFood Technologies
-- 👨🏻‍🎓 Graduated in IT Technician
+- 👨🏻‍🎓 Graduated from the IT technical course
 
 <h3 align="left">📈 My stats:</h3>
 <div align="center">
@@ -12,7 +12,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ArthurChagas0103&theme=prussian&hide_border=true&border_radius=10&locale=pt_BR&mode=weekly&exclude_days=Mon" alt="GitHub Streak" /></a>
 </div>
 
-<br/>
+<hr/>
 
 <h3 align="left">💻 Some programming languages:</h3>
 <div style="display: inline_block"><br>
@@ -31,7 +31,7 @@
   <code><img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
 </div>
 
-<br/>
+<hr/>
 
 <h3 align="left">📲 Connect with me:</h3>
 <p align="left">
