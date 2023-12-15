@@ -14,6 +14,7 @@
   <a href="https://github.com/ArthurChagas0103">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurChagas0103&show_icons=true&count_private=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurChagas0103&layout=compact&theme=dark"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArthurChagas0103&theme=prussian&hide_border=true&border_radius=10&locale=pt_BR&mode=weekly&exclude_days=Mon)](https://git.io/streak-stats)
 </div>
 
 
@@ -32,7 +33,3 @@
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"> 
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArthurChagas0103&theme=prussian&hide_border=true&border_radius=10&locale=pt_BR&mode=weekly&exclude_days=Mon)](https://git.io/streak-stats)
-
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
