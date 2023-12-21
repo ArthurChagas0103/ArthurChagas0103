@@ -11,6 +11,7 @@
 - 👨🏻‍🎓 Graduated from the IT technical course
 - 🎂 I'm 18 years old
 - 🧒🏻 Programmer since age 12
+- 🏙 I'm from Belo Horizonte - Minas Gerais - Brazil
 
 <hr/>
 
@@ -56,5 +57,5 @@
 <div align="center">
 <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="50%" />
 
-*"Não é a linguagem de programação que define o programador, mas sim sua lógica."*
+*"It is not the programming language that defines the programmer, but rather its logic."*
 </div>
