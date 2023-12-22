@@ -6,8 +6,8 @@
 
 ## Hello everyone! I'm Arthur Chagas 😎
 
-- 👨🏻‍💼 I'm CTO and Full-Stack Web Developer of a startup called <a href="https://www.qftech.com.br/">QuickFood Technologies</a>
-- 💼 I'm a Full-Stack Web Developer at <a href="https://dottatec.com.br/">Dottatec Soluções Inteligentes</a>
+- 👨🏻‍💼 I'm CTO and Full-Stack Web Developer of a startup called <a href="https://www.qftech.com.br/" target="_blank">QuickFood Technologies</a>
+- 💼 I'm a Full-Stack Web Developer at <a href="https://dottatec.com.br/" target="_blank">Dottatec Soluções Inteligentes</a>
 - 👨🏻‍🎓 Graduated from the IT technical course
 - 🎂 I'm 18 years old
 - 🧒🏻 Programmer since age 12
